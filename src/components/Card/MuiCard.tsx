@@ -9,8 +9,6 @@ import {
     CardMedia
 } from '@mui/material';
 
-
-
 const MuiCard = () => {// Contains content and actions about a single topic
     return (
         <Box width='300px'>
